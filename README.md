@@ -1,9 +1,9 @@
 # Single Image Reflection Removal (SIRR)
 
-This repository contains the implementation of my **final project** for the **Computer Vision (電腦視覺) course** at **National Chung Hsing University (NCHU)**. The project, titled **Single Image Reflection Removal (SIRR)**, evaluates and compares different SIRR methods by implementing three papers and testing their performance on several datasets.
+This repository contains the implementation of my **final project** for the Master's level **Computer Vision (電腦視覺)** course at **National Chung Hsing University (NCHU)**. The project, titled **Single Image Reflection Removal (SIRR)**, evaluates and compares various SIRR methods by implementing three papers and testing their performance on multiple datasets.
 
-Although this was a group project, I completed it individually.  
-- **Team Member:** 7113056013, You Chen-Jui (游宸睿)
+While this was designed as a group project, I completed it independently.  
+- **Team Member:** 7113056013, Chen-Jui Yu (游宸睿)
 
 ## Table of Contents
 - [Introduction](#introduction)
