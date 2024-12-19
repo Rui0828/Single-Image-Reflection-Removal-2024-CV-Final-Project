@@ -35,9 +35,9 @@ The goal of this project is to:
 
 ### Testing Datasets
 - **[CEILNet Synthetic](https://github.com/fqnchina/CEILNet/tree/master/testdata_reflection_synthetic_table2)** (100 images)
-- **[Berkeley Real Testing](https://sir2data.github.io)** (20 images)
+- **[Berkeley Real Testing](https://github.com/ceciliavision/perceptual-reflection-removal)** (20 images)
 - **[SIR2 Dataset](https://sir2data.github.io)** (454 pairs across three subsets)
-- **[Nature Dataset](https://github.com/ZhenboSong/RobustSIRR)** (20 images)
+- **[Nature Dataset](https://github.com/JHL-HUST/IBCLN)** (20 images)
 
 ## My Setup
 ### Hardware
