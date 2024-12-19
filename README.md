@@ -59,9 +59,9 @@ The goal of this project is to:
 
 ## Usage
 The code for each implemented paper is located in the `code` folder:
-- `code/model_1_code` corresponds to [Perceptual Reflection Removal GitHub Repository](https://github.com/ceciliavision/perceptual-reflection-removal).
-- `code/model_2_code` corresponds to [ERRNet GitHub Repository](https://github.com/Vandermode/ERRNet).
-- `code/model_3_code` corresponds to [IBCLN GitHub Repository](https://github.com/JHL-HUST/IBCLN).
+- `code/model_1_code` corresponds to Paper 1 ([Perceptual Reflection Removal](https://github.com/ceciliavision/perceptual-reflection-removal)).
+- `code/model_2_code` corresponds to Paper 2 ([ERRNet](https://github.com/Vandermode/ERRNet)).
+- `code/model_3_code` corresponds to Paper 3 ([IBCLN](https://github.com/JHL-HUST/IBCLN)).
 
 Each folder contains a custom `run.ipynb` file that documents the execution process, including training and testing. Modify dataset paths manually within the `run.ipynb` files before running.
 
