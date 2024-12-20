@@ -10,6 +10,7 @@ While this was designed as a group project, I completed it independently.
 - [Implemented Papers](#implemented-papers)
 - [Datasets](#datasets)
 - [My Setup](#my-setup)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Analysis](#analysis)
@@ -50,8 +51,8 @@ The goal of this project is to:
 - CUDA 11.8 and cuDNN 8.9.6
 - Required Python libraries: TensorFlow, OpenCV, LPIPS, and others as listed in each paper's implementation.
 
-### Installation
-1. Clone the repository:
+## Installation
+- Clone the repository:
    ```bash
    git clone https://github.com/Rui0828/Single-Image-Reflection-Removal-2024-CV-Final-Project.git
    cd Single-Image-Reflection-Removal-2024-CV-Final-Project
